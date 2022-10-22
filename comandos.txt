@@ -1,2 +1,4 @@
 comandos git: 
-- git init é utilizado para inciar um repositorio local
+- git init: é utilizado para inciar um repositorio local
+- git add: é utilizado para adicionar os arquivos alterados a area 
+de versonamento (stage area) que depois derão comitados 
